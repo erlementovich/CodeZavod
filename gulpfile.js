@@ -28,7 +28,7 @@ const
             img: 'app/image/**/*.*'
         },
         watch: {
-            html: 'app/templates/**/*.html',
+            html: 'app/**/*.html',
             scss: 'app/scss/**/*.scss',
             js: 'app/js/**/*.*',
             img: 'app/image/**/*.*'

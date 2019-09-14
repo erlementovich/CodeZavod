@@ -1,0 +1,15 @@
+//bootstrap
+@import '../../node_modules/bootstrap/dist/css/bootstrap.min';
+
+//utils
+@import 'utils/fonts';
+@import 'utils/vars';
+
+//components
+@import 'components/navbar';
+@import 'components/header';
+@import 'components/main';
+@import 'components/participant';
+@import 'components/contacts';
+@import 'components/footer';
+
